@@ -1,5 +1,5 @@
 {
-	"name": "pipelinediffilesindiffolders",
+	"name": "pipeline_diff_files_in_diff_folders",
 	"properties": {
 		"activities": [
 			{
